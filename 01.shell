@@ -3,4 +3,4 @@
 echo The time and date are:
 date
 echo "Let's see who logged on the system:"
-wh0
+who
