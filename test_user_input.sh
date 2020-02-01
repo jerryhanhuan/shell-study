@@ -9,7 +9,7 @@ done
 echo "sum = $sum"
 fi
 
-#testing two command line parameters
+#testing two command line  parameters 
 if [ -n "$1" ] && [ -n "$2" ]
 then
 total=$[$1 * $2]
